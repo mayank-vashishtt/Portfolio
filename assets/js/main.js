@@ -32,7 +32,7 @@
         selectEl.addEventListener(type, listener)
       }
     }
-  }
+  }  
 
   /**
    * Easy on scroll event listener 
