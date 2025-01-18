@@ -274,7 +274,7 @@ h6 {
   height: 100vh;
   background: url("../img/2.jpg") top center;
   background-size: cover;
-  background-position-y: bottom;
+  background-position: left center;
   
 }
 
